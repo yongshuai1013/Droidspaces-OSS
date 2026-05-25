@@ -522,4 +522,15 @@
     <string name="repo_status_ready">READY</string>
     <string name="repo_status_downloading">DOWNLOADING</string>
     <string name="repo_status_failed">FAILED</string>
+    <string name="repo_add_custom">Add Custom Repository</string>
+    <string name="repo_manage_custom">Manage Repositories</string>
+    <string name="repo_manager_subtitle">Subscribe to custom rootfs.json feeds.</string>
+    <string name="repo_custom_name_hint">Repository name</string>
+    <string name="repo_custom_url_hint">rootfs.json URL</string>
+    <string name="repo_custom_add">Subscribe</string>
+    <string name="repo_custom_remove">Remove</string>
+    <string name="repo_custom_name_empty">Name cannot be empty</string>
+    <string name="repo_custom_url_empty">URL cannot be empty</string>
+    <string name="repo_custom_url_invalid">URL must start with https://</string>
+    <string name="repo_no_custom">No custom repositories subscribed yet.</string>
 </resources>
